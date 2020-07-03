@@ -323,10 +323,6 @@ PRODUCT_ODM_PROPERTIES += \
 PRODUCT_PACKAGES += \
     libjson
 
-# Recorder
-PRODUCT_PACKAGES += \
-    Recorder
-
 # Recovery
 PRODUCT_PACKAGES += \
     librecovery_updater_xiaomi
